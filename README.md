@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago
 
-🐧 **Arch Linux Advocate & Expert** | ⚡ **Rust Engineer (Critical Backend & Endpoints)**  
+🐧 **Arch Linux Advocate & Expert** | ⚡ **Rust Software Engineer (Critical Backend & Endpoints)**  
 💻 **Full Stack & Web3.0 Developer** | 🔧 SaaS Creator & System Integrator  
 🌐 Blockchain (Solana & Ethereum) | Automation & Agent Systems  
 
