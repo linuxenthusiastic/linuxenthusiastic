@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago
 
-🐧 **Arch Linux Advocate & Expert** | 🔒 **Cybersecurity & Endpoint Specialist**  
+🐧 **Arch Linux Advocate & Expert** | 🔒 **Backend Security & Endpoint Specialist**  
 ⚡ **Rust Engineer** | Backend, Critical Systems, Blockchain (Solana)  
 
 ---
