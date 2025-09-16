@@ -2,7 +2,7 @@
 
 🐧 **Linux Advocate** | ⚡ **Study Software Engineer (Backend and Web3.0)**  
 🔗 Blockchain (Solana & Ethereum) Member | Smart Contract & Wallet Security | Protocol Development  
-🤖 Automation & Agent Systems | High-Performance System Architect  
+🤖 Automation & Agent Systems | n8n | Api BOTs (Discord,X,Telegram..)
 
 ---
 
