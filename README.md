@@ -32,7 +32,7 @@
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Current focus on learning
 - Building **critical backends** and **high-performance endpoints**  
 - Designing **secure smart contracts, wallets, and blockchain protocols**  
 - Developing **SaaS platforms** with blockchain, automation, and monitoring tools  
