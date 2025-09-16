@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🦀 **Backends and P2P systems**
+- 🦀 Programming **Backends and P2P systems**
 - 🔒 Passionate in **Smart contract, Wallets, and Protocol development**  
 - 🌐 Experienced in **SaaS solutions for mid-size and large companies**, integrating **automation, monitoring, and workplace management tools**  
 - 🐧 Advocate for **Linux systems development**  
