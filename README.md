@@ -28,8 +28,6 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 
 ---
 
-## Technologies
-
 ### Programming Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
@@ -72,8 +70,6 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 * Cloud Security
 
 ---
-
-## Goals
 
 Build secure products that leverage modern software engineering, blockchain technologies, and artificial intelligence.
 
