@@ -14,8 +14,6 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 
 ---
 
-## 🚀 Areas of Interest
-
 * 🔐 Cybersecurity & Offensive Security
 * 🛡️ Application Security
 * ⛓️ Blockchain & Web3
@@ -30,7 +28,7 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 ### Programming Languages
 
@@ -60,7 +58,7 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Smart Contract Auditing
 * Advanced Blockchain Security
@@ -75,7 +73,7 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 
 ---
 
-## 🎯 Goals
+## Goals
 
 Build secure products that leverage modern software engineering, blockchain technologies, and artificial intelligence.
 
