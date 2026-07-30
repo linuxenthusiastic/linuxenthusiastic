@@ -1,3 +1,5 @@
+<img src="banner.gif" width="100%" height="180">
+
 Hi, I'm **Santiago** — a Software Engineer passionate about building secure, scalable, and high-performance systems.
 
 I enjoy solving complex engineering challenges, designing robust architectures, and understanding how systems work under the hood. My interests span software engineering, cybersecurity, blockchain, and artificial intelligence, where I continuously explore cutting-edge technologies and best practices.
