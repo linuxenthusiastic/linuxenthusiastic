@@ -73,4 +73,4 @@ I'm always learning, experimenting with emerging technologies, and pushing mysel
 
 ---
 
-`Tools become outdated. Frameworks change. Vulnerabilities evolve. But those who understand networks, systems, cryptography, and software from the ground up will always be able to learn what comes next.`
+## *Tools become outdated. Frameworks change. Vulnerabilities evolve. But those who understand networks, systems, cryptography, and software from the ground up will always be able to learn what comes next.*
