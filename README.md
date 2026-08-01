@@ -70,3 +70,7 @@ Outside of coding, I'm a Linux enthusiast who enjoys working in terminal-first e
 Build secure products that leverage modern software engineering, blockchain technologies, and artificial intelligence.
 
 I'm always learning, experimenting with emerging technologies, and pushing myself to become a better engineer every day.
+
+---
+
+`Tools become outdated. Frameworks change. Vulnerabilities evolve. But those who understand networks, systems, cryptography, and software from the ground up will always be able to learn what comes next.`
